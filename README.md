@@ -5,7 +5,7 @@
   <img src="img/pynq.png" alt="PYNQ Logo" width="200" />
 </p>
 
-Este proyecto ha sido desarrollado como parte del **Máster Universitario en Ingeniería de Telecomunicación** de la **Universidad de Granada (UGR)**.
+Este proyecto ha sido desarrollado como parte del **Máster Universitario en Ingeniería en Tecnologías de Telecomunicación** de la **Universidad de Granada (UGR)**.
 
 El objetivo principal es el estudio, análisis y clasificación automática de señales de radiofrecuencia (RF) utilizando técnicas de **Deep Learning** (Redes Neuronales Convolucionales - CNN). Además, el proyecto abarca la implementación y despliegue de estos modelos en hardware reconfigurable (**FPGA**) utilizando herramientas de síntesis de alto nivel como **hls4ml** para la placa **PYNQ-Z2**.
 
